@@ -5,5 +5,5 @@ Learning React reading [ReactQuickly](http://reactquickly.co/).
 #### January 17th 2021
  - Read chapter one of the [book](https://www.manning.com/books/react-quickly)
  - Wrote the hello world script.
- - Make it a node module (`npm init- y`)
+ - Make it a node module (`npm init- y`). [Here](https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module) is a nice tutorial.
  - Include npm script `local`, serve index.html locally. Run `npm run local`.
