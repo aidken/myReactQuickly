@@ -1,0 +1,24 @@
+{
+  "name": "myReactQuickly",
+  "version": "1.0.0",
+  "description": "Learning React reading ReactQuickly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "http-server --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidken/myReactQuickly.git"
+  },
+  "keywords": [],
+  "author": "aidken",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/aidken/myReactQuickly/issues"
+  },
+  "homepage": "https://github.com/aidken/myReactQuickly#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
